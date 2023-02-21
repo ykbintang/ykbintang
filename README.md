@@ -143,8 +143,27 @@ int main() {
 <br/>
 
 <h2>⚙️ GitHub Statistics</h2>
+<details>
+  <summary>📈 GitHub Contribution Graph</summary>
+  <br/>
+  <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=ykbintang&custom_title=Yayes%20Kasnanda%20Bintang%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="ykbintang Trips' Activity Graph" />
+</details>
 
+<details>
+  <summary>🎛️ GitHub Profile Stats</summary>
+  <br/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ykbintang&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=ykbintang&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+  <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ykbintang&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+</details>
 
-<h1></h1>
+<details>
+  <summary>🏆 GitHub Trophy</summary>
+  <br/>
+  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
+</details>
+
 
 <p>Copyright &#169; 2023. Yayes Kasnanda Bintang</p>
