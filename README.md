@@ -34,7 +34,7 @@ int main() {
     cout << "👋🏻 Yayes Kasnanda Bintang\n";
     cout << "Hello World is not my first code\n";
     
-    string work    = "🔭 Still Learning";
+    string work    = "🔭 Bangkit Academy 2023 Participant";
     string study   = "🎓 Universitas Muhammadiyah Surakarta (UMS)";
     string major   = "📖 Computer Science";
     string learn   = "🌱 Android, Machine Learning, Python, PHP, SQL, Front-End Web Dev.";
