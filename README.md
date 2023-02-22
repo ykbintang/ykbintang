@@ -87,12 +87,6 @@ int main() {
   <a href="https://www.python.org" title="Python">
     <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
   </a>
-  <a href="https://www.java.com" title="Java">
-    <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
-  </a>
-  <a href="https://kotlinlang.org" title="Kotlin">
-    <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
-  </a>
   <a href="https://www.w3schools.com/html" title="HTML">
     <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40"> 
   </a>
@@ -107,6 +101,12 @@ int main() {
   </a>
   <a href="https://www.mysql.com" title="MySQL">
     <img src="https://api.iconify.design/logos/mysql.svg" alt="MySQL" height="40" width="40"> 
+  </a>
+  <a href="https://www.java.com" title="Java">
+    <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
+  </a>
+  <a href="https://kotlinlang.org" title="Kotlin">
+    <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
   </a>
   <a href="https://git-scm.com" title="Git">
     <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40"> 
