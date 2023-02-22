@@ -36,7 +36,7 @@ int main() {
     
     string work    = "🔭 Bangkit Academy 2023 Participant";
     string study   = "🎓 Universitas Muhammadiyah Surakarta (UMS)";
-    string major   = "📖 Computer Science";
+    string major   = "📖 Informatics";
     string learn   = "🌱 Android, Machine Learning, Python, PHP, SQL, Front-End Web Dev.";
     string collab  = "👯 Web Application Development";
     string ask     = "💬 Android, Machine Learning, Python, UI/UX";
