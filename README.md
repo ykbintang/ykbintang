@@ -60,13 +60,16 @@ int main() {
     <img src="https://api.iconify.design/skill-icons/instagram.svg" alt="Instagram" height="40" width="40"> 
   </a>
   <a href="https://id.linkedin.com/in/ykbintang" title="LinkedIn">
-    <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
+    <img src="https://api.iconify.design/skill-icons/linkedin.svg" alt="LinkedIn" height="40" width="40"> 
   </a>
   <a href="#" title="Discord">
-    <img src="https://api.iconify.design/logos/discord-icon.svg" alt="Discord" height="40" width="40">
+    <img src="https://api.iconify.design/skill-icons/discord.svg" alt="Discord" height="40" width="40">
   </a>
   <a href="https://github.com/ykbintang" title="GitHub">
     <img src="https://api.iconify.design/skill-icons/github-dark.svg" alt="GitHub" height="40" width="40"> 
+  </a>
+  <a href="#" title="Telegram">
+    <img src="https://api.iconify.design/logos/telegram.svg" alt="Telegram" height="40" width="40">
   </a>
   <a href="#" title="Facebook">
     <img src="https://api.iconify.design/logos/facebook.svg" alt="Facebook" height="40" width="40">
@@ -102,11 +105,11 @@ int main() {
   <a href="https://code.visualstudio.com" title="Visual Studio Code">
     <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="40" width="40"> 
   </a>
-  <a href="https://visualstudio.microsoft.com" title="Visual Studio">
-    <img src="https://api.iconify.design/logos/visual-studio.svg" alt="Visual Studio" height="40" width="40"> 
-  </a>
   <a href="https://www.jetbrains.com/idea" title="IntellJ IDEA">
     <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntellJ IDEA" height="40" width="40"> 
+  </a>
+  <a href="https://www.jetbrains.com/pycharm" title="PyCharm">
+    <img src="https://api.iconify.design/logos/pycharm.svg" alt="PyCharm" height="40" width="40"> 
   </a>
   <a href="https://www.eclipse.org" title="Eclipse">
     <img src="https://api.iconify.design/logos/eclipse-icon.svg" alt="Eclipse" height="40" width="40">
@@ -114,8 +117,8 @@ int main() {
   <a href="https://netbeans.apache.org" title="Apache NetBeans">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto">
   </a>
-  <a href="https://www.jetbrains.com/pycharm" title="PyCharm">
-    <img src="https://api.iconify.design/logos/pycharm.svg" alt="PyCharm" height="40" width="40"> 
+  <a href="https://jupyter.org/" title="Jupyter">
+    <img src="https://api.iconify.design/logos/jupyter.svg" alt="Jupyter" height="40" width="40"> 
   </a>
   <a href="https://git-scm.com" title="Git">
     <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40"> 
@@ -130,6 +133,8 @@ int main() {
     <img src="https://api.iconify.design/skill-icons/androidstudio-light.svg" alt="Android Studio" height="40" width="40">
   </a>
 </div>
+  
+<br>
   
 <h2>💻 Languages & Framework < / ></h2>
   
@@ -158,17 +163,35 @@ int main() {
   <a href="https://www.php.net" title="PHP">
     <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="40"> 
   </a>
+  <a href="https://www.markdownguide.org" title="Markdown">
+    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://api.iconify.design/simple-icons/pandas.svg" alt="Pandas" height="40" width="40"> 
+  </a>
+  <a href="https://numpy.org/" title="Numpy">
+    <img src="https://api.iconify.design/logos/numpy.svg" alt="Numpy" height="40" width="40"> 
+  </a>
+  <a href="https://scikit-learn.org/" title="Scikit Learn">
+    <img src="https://api.iconify.design/simple-icons/scikitlearn.svg" alt="Scikit Learn" height="40" width="40"> 
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://api.iconify.design/logos/pytorch-icon.svg" alt="PyTorch" height="40" width="40"> 
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://api.iconify.design/logos/tensorflow.svg" alt="TensorFlow" height="40" width="40"> 
+  </a>
+  <a href="https://matplotlib.org/" title="Matplotlib">
+    <img src="https://api.iconify.design/logos/matplotlib.svg" alt="Matplotlib" height="40" width="40"> 
+  </a>
+  <a href="https://flask.palletsprojects.com" title="Flask">
+    <img src="https://api.iconify.design/skill-icons/flask-light.svg" alt="Flask" height="40" width="40"> 
+  </a>
   <a href="https://kotlinlang.org" title="Kotlin">
     <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
   </a>
   <a href="https://gradle.org/" title="Gradle">
     <img src="https://api.iconify.design/skill-icons/gradle-dark.svg" alt="Gradle" height="40" width="40"> 
-  </a>
-  <a href="https://www.markdownguide.org" title="Markdown">
-    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
-  </a>
-  <a href="https://flask.palletsprojects.com" title="Flask">
-    <img src="https://api.iconify.design/skill-icons/flask-light.svg" alt="Flask" height="40" width="40"> 
   </a>
   <a href="https://flutter.dev/" title="Flutter">
     <img src="https://api.iconify.design/logos/flutter.svg" alt="Flutter" height="40" width="40"> 
