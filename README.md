@@ -166,24 +166,6 @@ int main() {
   <a href="https://www.markdownguide.org" title="Markdown">
     <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
   </a>
-  <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://api.iconify.design/simple-icons/pandas.svg" alt="Pandas" height="40" width="40"> 
-  </a>
-  <a href="https://numpy.org/" title="Numpy">
-    <img src="https://api.iconify.design/logos/numpy.svg" alt="Numpy" height="40" width="40"> 
-  </a>
-  <a href="https://scikit-learn.org/" title="Scikit Learn">
-    <img src="https://api.iconify.design/simple-icons/scikitlearn.svg" alt="Scikit Learn" height="40" width="40"> 
-  </a>
-  <a href="https://pytorch.org/" title="PyTorch">
-    <img src="https://api.iconify.design/logos/pytorch-icon.svg" alt="PyTorch" height="40" width="40"> 
-  </a>
-  <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://api.iconify.design/logos/tensorflow.svg" alt="TensorFlow" height="40" width="40"> 
-  </a>
-  <a href="https://matplotlib.org/" title="Matplotlib">
-    <img src="https://api.iconify.design/logos/matplotlib.svg" alt="Matplotlib" height="40" width="40"> 
-  </a>
   <a href="https://flask.palletsprojects.com" title="Flask">
     <img src="https://api.iconify.design/skill-icons/flask-light.svg" alt="Flask" height="40" width="40"> 
   </a>
@@ -197,6 +179,19 @@ int main() {
     <img src="https://api.iconify.design/logos/flutter.svg" alt="Flutter" height="40" width="40"> 
   </a>
 </div>
+  
+<br/>
+  
+<h2>💻 Machine Learning Library & Framework < / ></h2>
+  
+  <code><img height="15" title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
+  <code><img height="35" title="Tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="35" title="Keras" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"></code>
+  <code><img height="25" title="Sklearn" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
+  <code><img height="35" title="OpenCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+  <code><img height="35" title="Pandas" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg"></code>
+  <code><img height="30" title="Numpy" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg"></code>
+  <code><img height="20" title="Matplotlib" src="https://matplotlib.org/_static/logo2.svg"></code>
 
 <br/>
 
