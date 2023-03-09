@@ -136,7 +136,7 @@ int main() {
   
 <br>
   
-<h2>💻 Languages & Framework < / ></h2>
+<h2>💻 Languages, Framework & Library < / ></h2>
   
 <div>
   <a href="https://www.python.org" title="Python">
@@ -178,11 +178,6 @@ int main() {
   <a href="https://flutter.dev/" title="Flutter">
     <img src="https://api.iconify.design/logos/flutter.svg" alt="Flutter" height="40" width="40"> 
   </a>
-</div>
-  
-<br/>
-  
-<h2>💻 Machine Learning Library & Framework < / ></h2>
   
   <code><img height="15" title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
   <code><img height="35" title="Tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -192,7 +187,9 @@ int main() {
   <code><img height="35" title="Pandas" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg"></code>
   <code><img height="30" title="Numpy" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg"></code>
   <code><img height="20" title="Matplotlib" src="https://matplotlib.org/_static/logo2.svg"></code>
-
+</div>
+    
+  
 <br/>
 
 <h2>⚙️ GitHub Statistics</h2>
