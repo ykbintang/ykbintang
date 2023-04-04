@@ -8,12 +8,12 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme ykbintang
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: ykbintang/waka-readme@main
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ waka_ca924bf2-2e49-4c82-85ef-c744f3e7437f }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
