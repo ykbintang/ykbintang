@@ -176,24 +176,26 @@ int main() {
 <details>
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true">
+  <div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true"></div>
 </details>
 
 <details>
   <summary>🎛️ GitHub Profile Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  </div>
 </details>
 
 <details>
   <summary>🏆 GitHub Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4"></div>
 </details>
   
 <h2>✍️ Random Dev Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
 
 <p>Copyright &#169; 2023. Yayes Kasnanda Bintang</p>
