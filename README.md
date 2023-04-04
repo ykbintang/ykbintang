@@ -176,7 +176,9 @@ int main() {
 <details>
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
-  <div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true"></div>
+  <div align="center">
+    <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true">
+  </div>
 </details>
 
 <details>
@@ -192,10 +194,14 @@ int main() {
 <details>
   <summary>🏆 GitHub Trophy</summary>
   <br/>
-  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4"></div>
+  <div align="center">
+    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  </div>
 </details>
   
 <h2>✍️ Random Dev Quote</h2>
-  <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
+  <div align="center">
+    <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  </div>
 
 <p>Copyright &#169; 2023. Yayes Kasnanda Bintang</p>
