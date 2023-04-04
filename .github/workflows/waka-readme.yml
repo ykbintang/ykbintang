@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme ykbintang
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ykbintang/waka-readme@main
+        with:
+          WAKATIME_API_KEY: ${{ waka_ca924bf2-2e49-4c82-85ef-c744f3e7437f }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
