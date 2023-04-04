@@ -201,7 +201,7 @@ int main() {
   
 <h2>✍️ Random Dev Quote</h2>
   <div align="center">
-    <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </div>
 
-<p>Copyright &cpoy; 2023. Yayes Kasnanda Bintang</p>
+<p>Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
