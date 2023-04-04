@@ -177,7 +177,7 @@ int main() {
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
   <div align="center">
-    <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Graph">
+    <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Graph">
   </div>
 </details>
 
@@ -202,7 +202,7 @@ int main() {
   
 <h2>✍️ Random Dev Quote</h2>
   <div align="center">
-    <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+    <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
   </div>
 
 <p>Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
