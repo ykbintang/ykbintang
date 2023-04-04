@@ -138,57 +138,37 @@ int main() {
   
 <h2>💻 Languages, Framework & Library < / ></h2>
   
-<div>
-  <a href="https://www.python.org" title="Python">
-    <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
-  </a>
-  <a href="https://www.java.com" title="Java">
-    <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
-  </a>
-  <a href="https://www.w3schools.com/html" title="HTML">
-    <img src="https://api.iconify.design/skill-icons/html.svg" alt="HTML" height="40" width="40"> 
-  </a>
-  <a href="https://www.w3schools.com/css" title="CSS">
-    <img src="https://api.iconify.design/skill-icons/css.svg" alt="CSS" height="40" width="40"> 
-  </a>
-  <a href="https://www.javascript.com" title="JavaScript">
-    <img src="https://api.iconify.design/skill-icons/javascript.svg" alt="JavaScript" height="40" width="40"> 
-  </a>
-    <a href="https://getbootstrap.com" title="Bootstrap">
-    <img src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap" height="40" width="40"> 
-  </a>
-  <a href="https://www.mysql.com" title="MySQL">
-    <img src="https://api.iconify.design/logos/mysql.svg" alt="MySQL" height="40" width="40"> 
-  </a>
-  <a href="https://www.php.net" title="PHP">
-    <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="40"> 
-  </a>
-  <a href="https://www.markdownguide.org" title="Markdown">
-    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
-  </a>
-  <a href="https://flask.palletsprojects.com" title="Flask">
-    <img src="https://api.iconify.design/skill-icons/flask-light.svg" alt="Flask" height="40" width="40"> 
-  </a>
-  <a href="https://kotlinlang.org" title="Kotlin">
-    <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
-  </a>
-  <a href="https://gradle.org/" title="Gradle">
-    <img src="https://api.iconify.design/skill-icons/gradle-dark.svg" alt="Gradle" height="40" width="40"> 
-  </a>
-  <a href="https://flutter.dev/" title="Flutter">
-    <img src="https://api.iconify.design/logos/flutter.svg" alt="Flutter" height="40" width="40"> 
-  </a>
-  
-  <code><img height="15" title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
-  <code><img height="35" title="Tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="35" title="Keras" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"></code>
-  <code><img height="25" title="Sklearn" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
-  <code><img height="35" title="OpenCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-  <code><img height="35" title="Pandas" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg"></code>
-  <code><img height="30" title="Numpy" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg"></code>
-  <code><img height="20" title="Matplotlib" src="https://matplotlib.org/_static/logo2.svg"></code>
-</div>
-    
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
   
 <br/>
 
@@ -196,24 +176,24 @@ int main() {
 <details>
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
-  <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=ykbintang&custom_title=Yayes%20Kasnanda%20Bintang%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="ykbintang Trips' Activity Graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </details>
 
 <details>
   <summary>🎛️ GitHub Profile Stats</summary>
   <br/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ykbintang&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=ykbintang&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-  <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ykbintang&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </details>
 
 <details>
   <summary>🏆 GitHub Trophy</summary>
   <br/>
-  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </details>
-
+  
+<h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 <p>Copyright &#169; 2023. Yayes Kasnanda Bintang</p>
