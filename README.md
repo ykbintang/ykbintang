@@ -204,4 +204,4 @@ int main() {
     <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </div>
 
-<p>Copyright &#169; 2023. Yayes Kasnanda Bintang</p>
+<p>Copyright &cpoy; 2023. Yayes Kasnanda Bintang</p>
