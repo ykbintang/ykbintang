@@ -186,8 +186,8 @@ int main() {
   <br/>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
   </div>
 </details>
 
@@ -195,13 +195,13 @@ int main() {
   <summary>🏆 GitHub Trophy</summary>
   <br/>
   <div align="center">
-    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
   </div>
 </details>
   
 <h2>✍️ Random Dev Quote</h2>
   <div align="center">
-    <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </div>
 
 <p>Copyright &cpoy; 2023. Yayes Kasnanda Bintang</p>
