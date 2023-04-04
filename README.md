@@ -177,7 +177,7 @@ int main() {
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
   <div align="center">
-    <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true">
+    <img width="99.5%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Activity Graph">
   </div>
 </details>
 
@@ -185,9 +185,9 @@ int main() {
   <summary>🎛️ GitHub Profile Stats</summary>
   <br/>
   <div align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
-    <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false" alt="GitHub Strak Stats">
+    <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ykbintang&layuout=compact&theme=radical&v=2&hide_border=true" alt="Wakatime Stats" />
   </div>
 </details>
@@ -196,13 +196,13 @@ int main() {
   <summary>🏆 GitHub Trophy</summary>
   <br/>
   <div align="center">
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+    <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy">
   </div>
 </details>
   
 <h2>✍️ Random Dev Quote</h2>
   <div align="center">
-    <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
   </div>
 
 <p>Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
