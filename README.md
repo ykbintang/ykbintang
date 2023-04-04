@@ -203,9 +203,5 @@ int main() {
   <div align="center">
     <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </div>
-  
- [![wakatime](https://wakatime.com/badge/user/ykbintang.svg)](https://wakatime.com/@ykbintang)
- 
- ![https://github.com/ykbintang/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=ykbintang&theme=tokyonight&hide_border=true&line_height=30/)
 
 <p>Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
