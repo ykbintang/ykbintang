@@ -185,9 +185,9 @@ int main() {
   <summary>🎛️ GitHub Profile Stats</summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false">
+    <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ykbintang&layuout=compact&theme=radical&v=2&hide_border=true" alt="Wakatime Stats" />
   </div>
 </details>
