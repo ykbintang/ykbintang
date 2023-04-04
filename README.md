@@ -177,7 +177,7 @@ int main() {
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
   <div align="center">
-    <img width="80%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Graph">
+    <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Graph">
   </div>
 </details>
 
