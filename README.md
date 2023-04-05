@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Yayes Kasnanda Bintang</h1>
+  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br>I’m Yayes Kasnanda Bintang</h1>
   <h3>Student at <a href="https://www.ums.ac.id" title="Towards World Class University">Universitas Muhammadiyah Surakarta</a>, Indonesia</h3>
 </div>
 
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/last-commit/ykbintang/ykbintang?style=for-the-badge">
 </div>
 
-<br/>
+<br>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -48,7 +48,7 @@ int main() {
 }
 ```
 
-<br/>
+<br>
 
 <h2>🤝🏻 Connect with Me</h2>
 
@@ -97,9 +97,9 @@ int main() {
   </a>
 </p>
 
-<br/>
+<br>
 
-<h2>🛠 Tools < / > </h2>
+<h2>🛠 Tools </h2>
 
 <div>
   <a href="https://code.visualstudio.com" title="Visual Studio Code">
@@ -170,20 +170,18 @@ int main() {
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
   
-<br/>
+<br>
 
 <h2>⚙️ GitHub Statistics</h2>
 <details>
-  <summary>📈 GitHub Contribution Graph</summary>
-  <br/>
+  <summary>🎛️ GitHub Contribution Graph</summary><br>
   <div align="center">
     <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=ykbintang&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Graph">
   </div>
 </details>
 
 <details>
-  <summary>🎛️ GitHub Profile Stats</summary>
-  <br/>
+  <summary>📈 GitHub Profile Stats</summary><br>
   <div align="center">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false" alt="GitHub Strak Stats">
@@ -193,8 +191,7 @@ int main() {
 </details>
 
 <details>
-  <summary>🏆 GitHub Trophy</summary>
-  <br/>
+  <summary>🏆 GitHub Trophy</summary><br>
   <div align="center">
     <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ykbintang&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy">
   </div>
@@ -205,4 +202,5 @@ int main() {
     <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
   </div>
 
-<p>Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
+<br>
+<p align="center">Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
