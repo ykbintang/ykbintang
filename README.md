@@ -26,26 +26,22 @@
 <h2>👨🏻‍💻 About Me</h2>
 
 ```cpp
-#include <iostream>
-#include <string>
-using namespace std;
+function main() {
+    console.log("👋🏻 Yayes Kasnanda Bintang");
+    console.log("Hello World is not my first code");
 
-int main() {
-    cout << "👋🏻 Yayes Kasnanda Bintang\n";
-    cout << "Hello World is not my first code\n";
-    
-    string work    = "🔭 Bangkit Academy 2023 Participant";
-    string study   = "🎓 Universitas Muhammadiyah Surakarta (UMS)";
-    string major   = "📖 Informatics";
-    string learn   = "🌱 Android, Machine Learning, Python, PHP, SQL, Front-End Web Dev.";
-    string collab  = "👯 Web Application Development";
-    string ask     = "💬 Android, Machine Learning, Python, UI/UX";
-    string email_1 = "📫 ykbintang07@gmail.com";
-    string email_2 = "📫 l200190206@student.ums.ac.id";
-    string funfact = "⚡ Earth is round :)";
-    
-    return 0;
+    const work    = "🔭 Bangkit Academy 2023 Participant";
+    const study   = "🎓 Universitas Muhammadiyah Surakarta (UMS)";
+    const major   = "📖 Informatics";
+    const learn   = "🌱 Android, Machine Learning, Python, PHP, SQL, Front-End Web Dev.";
+    const collab  = "👯 Web Application Development";
+    const ask     = "💬 Android, Machine Learning, Python, UI/UX";
+    const email_1 = "📫 ykbintang07@gmail.com";
+    const email_2 = "📫 l200190206@student.ums.ac.id";
+    const funfact = "⚡ Earth is round :)";
 }
+
+main();
 ```
 
 <br>
