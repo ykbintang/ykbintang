@@ -25,6 +25,30 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
+<!-- Kotlin -->
+```cpp
+fun main() {
+    println("👋🏻 Yayes Kasnanda Bintang")
+    println("Hello World is not my first code")
+
+    val work    = "🔭 Bangkit Academy 2023 Participant"
+    val study   = "🎓 Universitas Muhammadiyah Surakarta (UMS)"
+    val major   = "📖 Informatics"
+    val learn   = "🌱 Android (Kotlin), Machine Learning, Python, JavaScript, PHP, Front-End Web Dev."
+    val collab  = "👯 Web Application, Mobile Application, Machine Learning"
+    val ask     = "💬 Android, Machine Learning, Front-End, UI/UX"
+    val email_1 = "📫 ykbintang07@gmail.com"
+    val email_2 = "📫 l200190206@student.ums.ac.id"
+    val funfact = "⚡ Earth is round :)"
+}
+
+fun main(args: Array<String>) {
+    main()
+}
+```
+
+<!-- JavaScript -->
+<!--
 ```cpp
 function main() {
     console.log("👋🏻 Yayes Kasnanda Bintang");
@@ -43,6 +67,7 @@ function main() {
 
 main();
 ```
+-->
 
 <br>
 
