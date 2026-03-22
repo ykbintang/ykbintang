@@ -1,3 +1,35 @@
+## 💫 About Me:
+Hi folk 👋 I'm Bintang<br>I’m interested in Data Science, Data Analyst, Machine Learning, Deep Learning and Artificial Intelligence<br>
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+<!-- 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+-->
+
+## 📈 GitHub Stats:
+<div align="justify">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false" alt="GitHub Strak Stats">
+  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+<!--
 <div align="center">
   <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br>I’m Yayes Kasnanda Bintang</h1>
   <h3>Student at <a href="https://www.ums.ac.id" title="Towards World Class University">Universitas Muhammadiyah Surakarta</a>, Indonesia</h3>
@@ -23,9 +55,11 @@
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h2>👨🏻‍💻 About Me</h2>
 
 <!-- Kotlin -->
+<!--
 ```cpp
 fun main() {
     println("👋🏻 Yayes Kasnanda Bintang")
@@ -46,29 +80,9 @@ fun main(args: Array<String>) {
     main()
 }
 ```
-
-<!-- JavaScript -->
-<!--
-```cpp
-function main() {
-    console.log("👋🏻 Yayes Kasnanda Bintang");
-    console.log("Hello World is not my first code");
-
-    const work    = "🔭 Bangkit Academy 2023 Participant";
-    const study   = "🎓 Universitas Muhammadiyah Surakarta (UMS)";
-    const major   = "📖 Informatics";
-    const learn   = "🌱 Android (Kotlin), Machine Learning, Python, JavaScript, PHP, Front-End Web Dev.";
-    const collab  = "👯 Web Application, Mobile Application, Machine Learning";
-    const ask     = "💬 Android, Machine Learning, Front-End, UI/UX";
-    const email_1 = "📫 ykbintang07@gmail.com";
-    const email_2 = "📫 l200190206@student.ums.ac.id";
-    const funfact = "⚡ Earth is round :)";
-}
-
-main();
-```
 -->
 
+<!--
 <br>
 
 <h2>🤝🏻 Connect with Me</h2>
@@ -222,5 +236,8 @@ main();
   <div align="center">
     <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
   </div>
-  <br>
+-->
+<!--
+<br>
 <p align="center">Copyright &copy; 2023. Yayes Kasnanda Bintang</p>
+-->
