@@ -23,11 +23,13 @@ Hi folk 👋 I'm Bintang<br>I’m interested in Data Science, Data Analyst, Mach
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 -->
 
+<!--
 ## 📈 GitHub Stats:
 <div align="justify">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykbintang&theme=radical&hide_border=false" alt="GitHub Strak Stats">
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykbintang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
+-->
 
 <!--
 <div align="center">
